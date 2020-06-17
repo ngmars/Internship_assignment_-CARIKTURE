@@ -1,0 +1,61 @@
+.profile-form{
+    
+
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.form-prof{
+
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin-left:100px;
+    width: inherit;
+    margin-top: 100px;
+}
+.info-title{
+    width: 1140px;
+    margin-left:-11.5px;
+    height: 50px;
+    border: 2px solid gray;
+    background-color:gray;
+    border-radius: 10px;
+
+}
+.info-title a2{
+    font-size: 25px;
+    vertical-align: center;
+    padding-left: 10px;
+}
+#update{
+    background-color: #3eb0f7;
+    border-radius: 10px;
+}
+
+.success_message div{
+    width: 1120px;
+    height:45px;
+    background-color:lightgreen;
+    border-radius: 5px;
+    padding-bottom: 10px;
+}
+.success_message a{
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    font-size: 25px;
+    padding-left: 15px;
+    padding-top: 10px;
+}
+
+#profile-tab{
+    color:#3eb0f7;
+   }
+   .logo{
+    margin-top: 10px;
+}
+.main-header{
+    background-color: #f1f1f1;
+    position: fixed;
+    width:1700px;
+    padding-top:10px;
+}

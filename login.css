@@ -1,0 +1,84 @@
+.login-box{
+    width: 500px;
+    height:600px;
+    border:1px solid black;
+}
+
+#login-word{
+    padding-left: 40px;
+    padding-top: 20px;
+    font-size: 20px;
+    color: grey;
+}
+
+#username-label{
+    padding-left: 40px;
+    font-size: 20px;
+    color: grey;
+    font-weight:lighter ; 
+    font-weight: 400 ;
+
+}
+
+#ip-bar{
+    margin-left: 40px;
+    width: 420;
+    height: 40px;
+
+}
+#fgt-pwd{
+    font-size:15px;
+    padding-left: 40px;
+    color:#3eb0f7 ;
+    font-weight: 400 ;
+
+}
+
+#submit{
+    width:420px;
+    margin-top: 50px;
+    margin-left:40px;
+    height:40px;
+    background-color: green;
+}
+
+#con-wt{
+    margin-top:20px;
+    margin-left:200px;
+    font-weight: 400 ;
+    color: lightgrey;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    margin-left: 170px;
+    border-radius: 10%;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+    border-radius: 10%;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+    border-radius: 10%;
+  }
+
+.dummy-header{
+    height:100px;
+}
+  
+  
